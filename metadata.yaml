@@ -1,0 +1,45 @@
+_repo: Our-Little-Eskimo-Cousin_46484
+contributor:
+  illustrator:
+    agent_name: Bridgman, L. J. (Lewis Jesse)
+    aliases:
+    - Bridgeman, Lewis Jesse
+    - Bridgman, Lewis Jesse
+    birthdate: 1857
+    deathdate: 1931
+    gutenberg_agent_id: '8122'
+    url: http://www.gutenberg.org/2009/agents/8122
+covers:
+- cover_type: archival
+  image_path: 46484/46484-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Wade, Mary Hazelton Blanchard
+    alias: Wade, Mary Hazleton
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '5065'
+    url: http://www.gutenberg.org/2009/agents/5065
+description: ''
+gutenberg_issued: '2014-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46484'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alaska -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'National characteristics -- Juvenile fiction'
+- !lcsh 'Amusements -- Juvenile fiction'
+- !lcsh 'Play -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Eskimos -- Juvenile fiction'
+- !lcsh 'Parent and child -- Juvenile fiction'
+title: Our Little Eskimo Cousin
+url: http://www.gutenberg.org/ebooks/46484
